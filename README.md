@@ -47,7 +47,7 @@ The Celebs4PD metadata bundle is available through Zenodo under restricted acces
 
 ### Overview
 
-The Celebs4PD dataset contains **60 participants** contributing **692 recordings** with a total duration of **270.25 hours** (~11.3 days) of audio data.
+The Celebs4PD dataset contains **60 participants** contributing **692 recordings** with a total duration of **269.62 hours** of audio data.
 
 <p align="center">
   <img src="stats_img/demographics.png" alt="Demographics Overview" width="800">
