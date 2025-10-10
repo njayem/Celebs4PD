@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_03",
+  "Recording ID": "recording_13",
+  "Stage": "Pre-Diagnosis",
+  "Date of Recording": "2005-01-01",
+  "Years from Diagnosis": "-13",
+  "Speaker ID": "SPEAKER_02",
+  "Age": "64",
+  "Source": "https://www.npr.org/2023/07/03/1185331117/neil-diamond-the-fresh-air-interview",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_03/Pre-Diagnosis/recording_13.wav"
+}

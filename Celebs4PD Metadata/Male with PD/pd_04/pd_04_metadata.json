@@ -1,0 +1,24 @@
+{
+  "Subject ID": "pd_04",
+  "Sex": "Male",
+  "Group": "Male with PD",
+  "Year of Diagnosis": "2019",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_1/pd_04_post_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_2/pd_04_post_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_3/pd_04_post_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_4/pd_04_post_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_5/pd_04_post_diagnosis_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_6/pd_04_post_diagnosis_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_7/pd_04_post_diagnosis_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_8/pd_04_post_diagnosis_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_9/pd_04_post_diagnosis_recording_9_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Post-Diagnosis/recording_10/pd_04_post_diagnosis_recording_10_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Pre-Diagnosis/recording_1/pd_04_pre_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Pre-Diagnosis/recording_2/pd_04_pre_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Pre-Diagnosis/recording_3/pd_04_pre_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Pre-Diagnosis/recording_4/pd_04_pre_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Pre-Diagnosis/recording_5/pd_04_pre_diagnosis_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_04/Pre-Diagnosis/recording_6/pd_04_pre_diagnosis_recording_6_metadata.json"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_16",
+  "Recording ID": "recording_23",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2013-01-01",
+  "Years from Diagnosis": "0",
+  "Speaker ID": "SPEAKER_04",
+  "Age": "67",
+  "Source": "https://www.npr.org/2022/10/14/1129083580/linda-ronstadt-the-fresh-air-interview",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_16/Post-Diagnosis/recording_23.wav"
+}

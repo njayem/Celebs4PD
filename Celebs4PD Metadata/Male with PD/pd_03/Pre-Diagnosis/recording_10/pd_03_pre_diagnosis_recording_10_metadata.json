@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_03",
+  "Recording ID": "recording_10",
+  "Stage": "Pre-Diagnosis",
+  "Date of Recording": "2016-12-17",
+  "Years from Diagnosis": "-2",
+  "Speaker ID": "SPEAKER_03",
+  "Age": "75",
+  "Source": "https://www.npr.org/2016/12/17/505854554/neil-diamond-on-loving-christmas-music-as-a-jew",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_03/Pre-Diagnosis/recording_10.wav"
+}

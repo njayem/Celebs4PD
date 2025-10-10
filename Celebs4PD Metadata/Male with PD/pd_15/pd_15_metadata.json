@@ -1,0 +1,20 @@
+{
+  "Subject ID": "pd_15",
+  "Sex": "Male",
+  "Group": "Male with PD",
+  "Year of Diagnosis": "2013",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_1/pd_15_post_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_2/pd_15_post_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_3/pd_15_post_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_4/pd_15_post_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_5/pd_15_post_diagnosis_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_6/pd_15_post_diagnosis_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_7/pd_15_post_diagnosis_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_8/pd_15_post_diagnosis_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Pre-Diagnosis/recording_1/pd_15_pre_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Pre-Diagnosis/recording_2/pd_15_pre_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Pre-Diagnosis/recording_3/pd_15_pre_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_15/Pre-Diagnosis/recording_4/pd_15_pre_diagnosis_recording_4_metadata.json"
+  ]
+}

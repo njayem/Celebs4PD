@@ -1,0 +1,21 @@
+{
+  "Subject ID": "pd_26",
+  "Sex": "Female",
+  "Group": "Female with PD",
+  "Year of Diagnosis": "2020",
+  "Recordings": [
+    "./Celebs4PD Dataset/Female with PD/pd_26/Post-Diagnosis/recording_1/pd_26_post_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Post-Diagnosis/recording_2/pd_26_post_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Post-Diagnosis/recording_3/pd_26_post_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Post-Diagnosis/recording_4/pd_26_post_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Post-Diagnosis/recording_5/pd_26_post_diagnosis_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Post-Diagnosis/recording_6/pd_26_post_diagnosis_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_1/pd_26_pre_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_2/pd_26_pre_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_3/pd_26_pre_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_4/pd_26_pre_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_5/pd_26_pre_diagnosis_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_6/pd_26_pre_diagnosis_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_26/Pre-Diagnosis/recording_7/pd_26_pre_diagnosis_recording_7_metadata.json"
+  ]
+}

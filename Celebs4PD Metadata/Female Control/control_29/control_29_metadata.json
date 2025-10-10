@@ -1,0 +1,19 @@
+{
+  "Subject ID": "control_29",
+  "Sex": "Female",
+  "Group": "Female Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Female Control/control_29/recording_1/control_29_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_10/control_29_recording_10_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_11/control_29_recording_11_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_2/control_29_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_3/control_29_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_4/control_29_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_5/control_29_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_6/control_29_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_7/control_29_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_8/control_29_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_29/recording_9/control_29_recording_9_metadata.json"
+  ]
+}

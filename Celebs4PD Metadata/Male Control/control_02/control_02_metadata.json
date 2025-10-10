@@ -1,0 +1,24 @@
+{
+  "Subject ID": "control_02",
+  "Sex": "Male",
+  "Group": "Male Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male Control/control_02/recording_1/control_02_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_10/control_02_recording_10_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_11/control_02_recording_11_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_12/control_02_recording_12_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_13/control_02_recording_13_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_14/control_02_recording_14_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_15/control_02_recording_15_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_16/control_02_recording_16_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_2/control_02_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_3/control_02_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_4/control_02_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_5/control_02_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_6/control_02_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_7/control_02_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_8/control_02_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_02/recording_9/control_02_recording_9_metadata.json"
+  ]
+}

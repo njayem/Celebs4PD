@@ -1,0 +1,23 @@
+{
+  "Subject ID": "control_16",
+  "Sex": "Female",
+  "Group": "Female Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Female Control/control_16/recording_1/control_16_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_10/control_16_recording_10_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_11/control_16_recording_11_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_12/control_16_recording_12_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_13/control_16_recording_13_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_14/control_16_recording_14_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_15/control_16_recording_15_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_2/control_16_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_3/control_16_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_4/control_16_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_5/control_16_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_6/control_16_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_7/control_16_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_8/control_16_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_16/recording_9/control_16_recording_9_metadata.json"
+  ]
+}

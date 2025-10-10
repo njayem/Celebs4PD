@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_01",
+  "Recording ID": "recording_31",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2023-05-18",
+  "Years from Diagnosis": "32",
+  "Speaker ID": "SPEAKER_04",
+  "Age": "62",
+  "Source": "https://www.npr.org/2023/02/15/1157222953/parkinsons-threatened-to-tear-michael-j-fox-down-but-he-keeps-on-getting-up",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_01/Post-Diagnosis/recording_31.wav"
+}

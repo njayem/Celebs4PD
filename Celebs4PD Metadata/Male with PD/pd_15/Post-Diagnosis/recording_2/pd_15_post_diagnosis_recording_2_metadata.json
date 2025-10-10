@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_15",
+  "Recording ID": "recording_2",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2021-02-05",
+  "Years from Diagnosis": "8",
+  "Speaker ID": "SPEAKER_00",
+  "Age": "74",
+  "Source": "https://www.gala.fr/l_actu/news_de_stars/video-jai-parkinson-et-alors-jean-pierre-descombes-livre-un-temoignage-poignant_462690",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_15/Post-Diagnosis/recording_2.wav"
+}

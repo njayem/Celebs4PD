@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_25",
+  "Recording ID": "recording_3",
+  "Stage": "Pre-Diagnosis",
+  "Date of Recording": "1980-01-01",
+  "Years from Diagnosis": "-35",
+  "Speaker ID": "SPEAKER_00",
+  "Age": "37",
+  "Source": "https://www.youtube.com/watch?v=buQgsFawmp0",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_3.wav"
+}

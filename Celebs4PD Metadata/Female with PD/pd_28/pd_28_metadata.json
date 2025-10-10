@@ -1,0 +1,10 @@
+{
+  "Subject ID": "pd_28",
+  "Sex": "Female",
+  "Group": "Female with PD",
+  "Year of Diagnosis": "1997",
+  "Recordings": [
+    "./Celebs4PD Dataset/Female with PD/pd_28/Post-Diagnosis/recording_1/pd_28_post_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_28/Pre-Diagnosis/recording_1/pd_28_pre_diagnosis_recording_1_metadata.json"
+  ]
+}

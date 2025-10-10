@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_20",
+  "Recording ID": "recording_1",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2016-11-20",
+  "Years from Diagnosis": "2",
+  "Speaker ID": "SPEAKER_08",
+  "Age": "65",
+  "Source": "https://www.abc.net.au/news/2016-11-21/a-sense-of-self/8044342",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_20/Post-Diagnosis/recording_1.wav"
+}

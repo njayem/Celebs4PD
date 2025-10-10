@@ -1,0 +1,15 @@
+{
+  "Subject ID": "pd_25",
+  "Sex": "Female",
+  "Group": "Female with PD",
+  "Year of Diagnosis": "2015",
+  "Recordings": [
+    "./Celebs4PD Dataset/Female with PD/pd_25/Post-Diagnosis/recording_1/pd_25_post_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_1/pd_25_pre_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_2/pd_25_pre_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_3/pd_25_pre_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_4/pd_25_pre_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_5/pd_25_pre_diagnosis_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Female with PD/pd_25/Pre-Diagnosis/recording_6/pd_25_pre_diagnosis_recording_6_metadata.json"
+  ]
+}

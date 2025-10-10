@@ -1,0 +1,17 @@
+{
+  "Subject ID": "control_10",
+  "Sex": "Male",
+  "Group": "Male Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male Control/control_10/recording_1/control_10_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_2/control_10_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_3/control_10_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_4/control_10_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_5/control_10_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_6/control_10_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_7/control_10_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_8/control_10_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_10/recording_9/control_10_recording_9_metadata.json"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_01",
+  "Recording ID": "recording_17",
+  "Stage": "Pre-Diagnosis",
+  "Date of Recording": "1987-01-01",
+  "Years from Diagnosis": "-4",
+  "Speaker ID": "SPEAKER_00",
+  "Age": "26",
+  "Source": "https://www.youtube.com/watch?v=xdHS2dG7F6M",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_01/Pre-Diagnosis/recording_17.wav"
+}

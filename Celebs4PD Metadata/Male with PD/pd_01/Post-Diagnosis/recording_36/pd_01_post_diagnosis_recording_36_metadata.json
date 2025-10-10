@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_01",
+  "Recording ID": "recording_36",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2023-05-14",
+  "Years from Diagnosis": "32",
+  "Speaker ID": "SPEAKER_01",
+  "Age": "62",
+  "Source": "https://www.npr.org/2023/05/14/1175855997/michael-j-fox-parkinsons-documentary",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_01/Post-Diagnosis/recording_36.wav"
+}

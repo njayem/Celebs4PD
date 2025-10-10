@@ -1,0 +1,12 @@
+{
+  "Subject ID": "control_28",
+  "Sex": "Female",
+  "Group": "Female Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Female Control/control_28/recording_1/control_28_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_28/recording_2/control_28_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_28/recording_3/control_28_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Female Control/control_28/recording_4/control_28_recording_4_metadata.json"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Subject ID": "control_01",
+  "Recording ID": "recording_1",
+  "Stage": "None",
+  "Date of Recording": "2004-09-09",
+  "Years from Diagnosis": "None",
+  "Speaker ID": "SPEAKER_01",
+  "Age": "42",
+  "Source": "https://www.youtube.com/watch?v=S2ROqWdcRqg",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male Control/control_01/recording_1.wav"
+}

@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_05",
+  "Recording ID": "recording_6",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2019-12-01",
+  "Years from Diagnosis": "6",
+  "Speaker ID": "SPEAKER_02",
+  "Age": "77",
+  "Source": "https://soundcloud.com/adam-buxton/ep114-billy-connolly",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Male with PD/pd_05/Post-Diagnosis/recording_6.wav"
+}

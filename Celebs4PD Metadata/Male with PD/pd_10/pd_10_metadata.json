@@ -1,0 +1,13 @@
+{
+  "Subject ID": "pd_10",
+  "Sex": "Male",
+  "Group": "Male with PD",
+  "Year of Diagnosis": "1994",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male with PD/pd_10/Post-Diagnosis/recording_1/pd_10_post_diagnosis_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_10/Post-Diagnosis/recording_2/pd_10_post_diagnosis_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_10/Post-Diagnosis/recording_3/pd_10_post_diagnosis_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_10/Post-Diagnosis/recording_4/pd_10_post_diagnosis_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male with PD/pd_10/Post-Diagnosis/recording_5/pd_10_post_diagnosis_recording_5_metadata.json"
+  ]
+}

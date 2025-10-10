@@ -1,0 +1,27 @@
+{
+  "Subject ID": "control_15",
+  "Sex": "Male",
+  "Group": "Male Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male Control/control_15/recording_1/control_15_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_10/control_15_recording_10_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_11/control_15_recording_11_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_12/control_15_recording_12_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_13/control_15_recording_13_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_14/control_15_recording_14_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_15/control_15_recording_15_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_16/control_15_recording_16_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_17/control_15_recording_17_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_18/control_15_recording_18_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_19/control_15_recording_19_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_2/control_15_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_3/control_15_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_4/control_15_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_5/control_15_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_6/control_15_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_7/control_15_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_8/control_15_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_15/recording_9/control_15_recording_9_metadata.json"
+  ]
+}

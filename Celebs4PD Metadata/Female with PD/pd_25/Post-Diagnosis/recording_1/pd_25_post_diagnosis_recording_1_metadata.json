@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_25",
+  "Recording ID": "recording_1",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2019-08-07",
+  "Years from Diagnosis": "4",
+  "Speaker ID": "SPEAKER_09",
+  "Age": "76",
+  "Source": "https://tubitv.com/movies/100016571/valerie",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_25/Post-Diagnosis/recording_1.wav"
+}

@@ -1,0 +1,14 @@
+Profession,Participants,Recordings,Duration (hours),Avg Recording Length (min),Percentage
+Actor,14,182,62.84,20.72,23.3%
+Singer,11,152,43.22,17.06,18.3%
+Politician,8,90,46.50,31.00,13.3%
+Athlete,6,76,32.60,25.73,10.0%
+Comedian,4,52,17.47,20.15,6.7%
+Journalist,4,29,14.65,30.31,6.7%
+Author,4,33,18.42,33.49,6.7%
+Presenter,2,30,6.85,13.70,3.3%
+Astronaut,2,14,9.74,41.72,3.3%
+Painter,2,8,6.18,46.39,3.3%
+Fashion Designer,1,12,2.61,13.03,1.7%
+Physician,1,13,5.64,26.03,1.7%
+Musician,1,2,2.91,87.32,1.7%

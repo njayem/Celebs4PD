@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_20",
+  "Recording ID": "recording_2",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2018-06-07",
+  "Years from Diagnosis": "4",
+  "Speaker ID": "SPEAKER_06",
+  "Age": "67",
+  "Source": "https://www.youtube.com/watch?v=tIxPL9LIo6g",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_20/Post-Diagnosis/recording_2.wav"
+}

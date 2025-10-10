@@ -1,0 +1,29 @@
+{
+  "Subject ID": "control_14",
+  "Sex": "Male",
+  "Group": "Male Control",
+  "Year of Diagnosis": "None",
+  "Recordings": [
+    "./Celebs4PD Dataset/Male Control/control_14/recording_1/control_14_recording_1_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_10/control_14_recording_10_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_11/control_14_recording_11_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_12/control_14_recording_12_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_13/control_14_recording_13_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_14/control_14_recording_14_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_15/control_14_recording_15_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_16/control_14_recording_16_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_17/control_14_recording_17_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_18/control_14_recording_18_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_19/control_14_recording_19_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_2/control_14_recording_2_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_20/control_14_recording_20_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_21/control_14_recording_21_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_3/control_14_recording_3_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_4/control_14_recording_4_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_5/control_14_recording_5_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_6/control_14_recording_6_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_7/control_14_recording_7_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_8/control_14_recording_8_metadata.json",
+    "./Celebs4PD Dataset/Male Control/control_14/recording_9/control_14_recording_9_metadata.json"
+  ]
+}

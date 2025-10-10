@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_16",
+  "Recording ID": "recording_30",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2013-01-01",
+  "Years from Diagnosis": "0",
+  "Speaker ID": "SPEAKER_00",
+  "Age": "67",
+  "Source": "https://www.npr.org/2019/09/13/760502128/linda-ronstadt-on-making-music-i-knew-how-to-sing-my-whole-life",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_16/Post-Diagnosis/recording_30.wav"
+}

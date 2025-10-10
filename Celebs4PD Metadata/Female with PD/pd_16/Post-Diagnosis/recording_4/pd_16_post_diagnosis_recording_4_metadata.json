@@ -1,0 +1,12 @@
+{
+  "Subject ID": "pd_16",
+  "Recording ID": "recording_4",
+  "Stage": "Post-Diagnosis",
+  "Date of Recording": "2022-11-20",
+  "Years from Diagnosis": "9",
+  "Speaker ID": "SPEAKER_01",
+  "Age": "76",
+  "Source": "https://www.cbsnews.com/video/linda-ronstadt-a-taste-of-home/",
+  "Speech Type": "Spontaneous Speech",
+  "Recording WAV Path": "./Celebs4PD Dataset/Female with PD/pd_16/Post-Diagnosis/recording_4.wav"
+}
